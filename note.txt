@@ -1,0 +1,6 @@
+Rapikan struktur direktori;
+Tambahkan validasi data sebelum disimpan ke database;
+Buat endpoint untuk auth;
+Buat endpoint untuk upload avatar;
+Lengkapi endpoint yang belum lengkap;
+dan sebagainya.
